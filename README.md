@@ -11,4 +11,4 @@
 
 5-) **And also we used tfidfvectorizer order to obtain diffirent insights from the data**
 
-6-) **finally we train our dataset with diffirent classifiers and compare the results**
+6-) **finally we train our dataset with diffirent classifiers and compare each results**
